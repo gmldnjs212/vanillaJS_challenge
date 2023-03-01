@@ -1,0 +1,23 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmldnjs212/vanillaJS_challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmldnjs212/vanillaJS_challenge/issues"
+  },
+  "homepage": "https://github.com/gmldnjs212/vanillaJS_challenge#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
