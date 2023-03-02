@@ -1,3 +1,5 @@
+// quotes.js
+
 const quotes = [
     {
         quote: "좋은 성과를 얻으려면 한 걸음 한 걸음이 힘차고 충실하지 않으면 안 된다",
